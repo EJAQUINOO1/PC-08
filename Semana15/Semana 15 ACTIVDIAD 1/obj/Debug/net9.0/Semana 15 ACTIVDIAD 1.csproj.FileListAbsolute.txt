@@ -1,0 +1,14 @@
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\bin\Debug\net9.0\Semana 15 ACTIVDIAD 1.exe
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\bin\Debug\net9.0\Semana 15 ACTIVDIAD 1.deps.json
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\bin\Debug\net9.0\Semana 15 ACTIVDIAD 1.runtimeconfig.json
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\bin\Debug\net9.0\Semana 15 ACTIVDIAD 1.dll
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\bin\Debug\net9.0\Semana 15 ACTIVDIAD 1.pdb
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\obj\Debug\net9.0\Semana 15 ACTIVDIAD 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\obj\Debug\net9.0\Semana 15 ACTIVDIAD 1.AssemblyInfoInputs.cache
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\obj\Debug\net9.0\Semana 15 ACTIVDIAD 1.AssemblyInfo.cs
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\obj\Debug\net9.0\Semana 15 ACTIVDIAD 1.csproj.CoreCompileInputs.cache
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\obj\Debug\net9.0\Semana 15 ACTIVDIAD 1.dll
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\obj\Debug\net9.0\refint\Semana 15 ACTIVDIAD 1.dll
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\obj\Debug\net9.0\Semana 15 ACTIVDIAD 1.pdb
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\obj\Debug\net9.0\Semana 15 ACTIVDIAD 1.genruntimeconfig.cache
+C:\Users\jerea\OneDrive\Documents\PC-08\Semana 15 ACTIVDIAD 1\obj\Debug\net9.0\ref\Semana 15 ACTIVDIAD 1.dll
